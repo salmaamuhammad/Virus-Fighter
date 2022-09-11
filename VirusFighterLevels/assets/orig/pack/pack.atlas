@@ -1,0 +1,70 @@
+
+pack.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1Idlegun
+  rotate: false
+  xy: 2, 58
+  size: 105, 196
+  split: 37, 40, 79, 75
+  orig: 105, 196
+  offset: 0, 0
+  index: -1
+Edgeleft
+  rotate: false
+  xy: 109, 68
+  size: 64, 64
+  split: 18, 0, 0, 15
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Edgeright
+  rotate: false
+  xy: 109, 2
+  size: 64, 64
+  split: 0, 0, 0, 12
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Floatingleft
+  rotate: false
+  xy: 344, 190
+  size: 64, 64
+  split: 17, 0, 0, 13
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Floatingright
+  rotate: false
+  xy: 410, 190
+  size: 64, 64
+  split: 11, 0, 0, 9
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Main
+  rotate: false
+  xy: 344, 124
+  size: 64, 64
+  split: 0, 0, 0, 12
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+e2
+  rotate: false
+  xy: 228, 133
+  size: 114, 121
+  split: 19, 16, 10, 6
+  orig: 114, 121
+  offset: 0, 0
+  index: -1
+enemy
+  rotate: false
+  xy: 109, 134
+  size: 117, 120
+  split: 21, 20, 5, 43
+  orig: 117, 120
+  offset: 0, 0
+  index: -1
